@@ -18,10 +18,11 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 
 ## Technical Tools:
 
-<div style="display: flex; align-items: center;">
-    <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 8px;" />
-    <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding: 8px;"/>
-</div>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
+
+<br />
+<br />
 
 ### Languages
 
