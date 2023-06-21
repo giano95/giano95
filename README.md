@@ -1,24 +1,24 @@
-### Hi there 👋
+# Marco Gianelli
 
-I'm Marco Gianelli, a software engineer with skills ranging from Web and Mobile application development to Data Science technology, Machine Learning and Computer Vision. I have also made a few BlockChain based applications and am passionate about the whole world surrounding the Web3 and the Crypto Space.
+Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging from Web 🌎 and Mobile 📱 application development to Data Science technology 📊, Machine Learning 🤖 and Computer Vision 👀. I have also made a few BlockChain ⛓️ based applications and am passionate about the whole world surrounding the Web3 and the Crypto Space.
 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://github.com/giano95#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://github.com/giano95#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin-light](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/giano95/)
-[![linkedin-dark](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/giano95/)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/giano95/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/giano95/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram-light](./img/instagram-light.svg#gh-light-mode-only)](https://www.instagram.com/_giano95/)
-[![instagram-dark](./img/instagram-dark.svg#gh-dark-mode-only)](https://www.instagram.com/_giano95/)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/_giano95/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/_giano95/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitter-light](./img/twitter-light.svg#gh-light-mode-only)](https://twitter.com/_giano95)
-[![twitter-dark](./img/twitter-dark.svg#gh-dark-mode-only)](https://twitter.com/_giano95)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/_giano95#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/_giano95#gh-dark-mode-only)
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][test]
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
