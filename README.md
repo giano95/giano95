@@ -4,8 +4,8 @@ I'm Marco Gianelli, a software engineer with skills ranging from Web and Mobile 
 
 ### Connect with me:
 
-[![globe-light](./img/globe-light.svg#gh-light-mode-only)](https://github.com/giano95)
-[![globe-dark](./img/globe-dark.svg#gh-dark-mode-only)](https://github.com/giano95)
+[![website](./img/globe-light.svg)](https://github.com/giano95#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://github.com/giano95#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin-light](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/giano95/)
 [![linkedin-dark](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/giano95/)
