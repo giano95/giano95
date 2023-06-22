@@ -1,7 +1,3 @@
-# Marco Gianelli
-
-Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging from Web 🌎 and Mobile 📱 application development to Data Science technology 📊, Machine Learning 🤖 and Computer Vision 👀. I have also made a few BlockChain ⛓️ based applications and am passionate about the whole world surrounding the Web3 and the Crypto Space.
-
 [![website](./img/globe-light.svg)](https://github.com/giano95#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://github.com/giano95#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -13,6 +9,12 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/_giano95#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/_giano95#gh-dark-mode-only)
+
+# Marco Gianelli
+
+Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging from Web 🌎 and Mobile 📱 application development to Data Science technology 📊, Machine Learning 🤖 and Computer Vision 👀. I have also made a few BlockChain ⛓️ based applications and am passionate about the whole world surrounding the Web3 and the Crypto Space.
+
+<br />
 
 ## My Projects
 
@@ -28,6 +30,8 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 [![e_commerce_mobile Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=e_commerce_mobile&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/e_commerce_mobile#gh-dark-mode-only)
 [![html-fund-me-fcc Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=html-fund-me-fcc&show_owner=true&theme=swift)](https://github.com/giano95/html-fund-me-fcc#gh-light-mode-only)
 [![html-fund-me-fcc Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=html-fund-me-fcc&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/html-fund-me-fcc#gh-dark-mode-only)
+
+<br />
 
 ## Languages
 
