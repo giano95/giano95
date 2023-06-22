@@ -4,7 +4,8 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 
 ## My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Wall-ETH Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=wall-eth&show_owner=true&theme=swift)](https://github.com/giano95/wall-eth#gh-light-mode-only)
+[![Wall-ETH Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=wall-eth&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/wall-eth#gh-dark-mode-only)
 
 ## Connect with me
 
@@ -20,12 +21,6 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 [![twitter](./img/twitter-light.svg)](https://twitter.com/_giano95#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/_giano95#gh-dark-mode-only)
 
-## Technical Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
-<br />
-
 ## Languages
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -35,6 +30,9 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+
 <br />
 
 ## Web & Mobile applications
@@ -45,6 +43,7 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 <img  align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;"/>  
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;"/>
+
 <br />
 
 ## Data Science & Computer Vision
@@ -52,10 +51,5 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 <img align="left" alt="Pandas" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="OpenCV" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" style="padding-right:10px;"/>
-<br />
 
-## Database
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <br />
