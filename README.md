@@ -6,16 +6,12 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 
 [![Wall-ETH Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=wall-eth&show_owner=true&theme=swift)](https://github.com/giano95/wall-eth#gh-light-mode-only)
 [![Wall-ETH Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=wall-eth&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/wall-eth#gh-dark-mode-only)
-
 [![Blubbr Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=blubbr&show_owner=true&theme=swift)](https://github.com/giano95/blubbr#gh-light-mode-only)
 [![Blubbr Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=blubbr&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/blubbr#gh-dark-mode-only)
-
 [![web3rsvp Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=web3rsvp&show_owner=true&theme=swift)](https://github.com/giano95/web3rsvp#gh-light-mode-only)
 [![web3rsvp Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=web3rsvp&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/web3rsvp#gh-dark-mode-only)
-
 [![PaintingRecognition Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=PaintingRecognition&show_owner=true&theme=swift)](https://github.com/giano95/PaintingRecognition#gh-light-mode-only)
 [![PaintingRecognition Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=PaintingRecognition&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/PaintingRecognition#gh-dark-mode-only)
-
 [![e_commerce_mobile Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=e_commerce_mobile&show_owner=true&theme=swift)](https://github.com/giano95/e_commerce_mobile#gh-light-mode-only)
 [![e_commerce_mobile Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=e_commerce_mobile&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/e_commerce_mobile#gh-dark-mode-only)
 
