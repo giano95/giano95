@@ -26,10 +26,10 @@ Hi there 👋 i'm Marco Gianelli, a Software Engineer 💻 with skills ranging f
 [![web3rsvp Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=web3rsvp&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/web3rsvp#gh-dark-mode-only)
 [![PaintingRecognition Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=PaintingRecognition&show_owner=true&theme=swift)](https://github.com/giano95/PaintingRecognition#gh-light-mode-only)
 [![PaintingRecognition Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=PaintingRecognition&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/PaintingRecognition#gh-dark-mode-only)
-[![e_commerce_mobile Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=e_commerce_mobile&show_owner=true&theme=swift)](https://github.com/giano95/e_commerce_mobile#gh-light-mode-only)
-[![e_commerce_mobile Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=e_commerce_mobile&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/e_commerce_mobile#gh-dark-mode-only)
-[![html-fund-me-fcc Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=html-fund-me-fcc&show_owner=true&theme=swift)](https://github.com/giano95/html-fund-me-fcc#gh-light-mode-only)
-[![html-fund-me-fcc Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=html-fund-me-fcc&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/html-fund-me-fcc#gh-dark-mode-only)
+[![clothify_back_front_end Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=clothify_back_front_end&show_owner=true&theme=swift)](https://github.com/giano95/clothify_back_front_end#gh-light-mode-only)
+[![clothify_back_front_end Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=clothify_back_front_end&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/clothify_back_front_end#gh-dark-mode-only)
+[![clothify_mobile Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=clothify_mobile&show_owner=true&theme=swift)](https://github.com/giano95/clothify_mobile#gh-light-mode-only)
+[![clothify_mobile Card](https://github-readme-stats.vercel.app/api/pin/?username=giano95&repo=clothify_mobile&show_owner=true&theme=one_dark_pro)](https://github.com/giano95/clothify_mobile#gh-dark-mode-only)
 
 <br />
 
